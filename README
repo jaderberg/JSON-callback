@@ -1,1 +1,3 @@
 A handy little function to handle JSON callback functions.
+
+TODO convert to decorator
